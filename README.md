@@ -1,7 +1,7 @@
 # JPMC-Tech-Experience-
 This repository contains my solutions to the tasks in the JPMorgan-Chase Software Engineering Virtual Experience from InsiderSherpa
 
-I am currently working through the experience in my free time to help brush up on my Python skills. I have been working in Python 3.8 
+I am currently working through the experience in my free time because it piqued my interest in financial markets and will help me brush up on my Python skills. I have been working in Python 3.8 
 
 The job involves setting up functionality for equity trader dashboards that allows them to track correlated stocks for their trading strategies 
 
