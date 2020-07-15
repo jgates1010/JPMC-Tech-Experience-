@@ -3,6 +3,8 @@ This repository contains my solutions to the tasks in the JPMorgan-Chase Softwar
 
 I am currently working through the experience in my free time because it piqued my interest in financial markets and will help me brush up on my Python skills. I have been working in Python 3.8 
 
+The patch file shows the additions and subtractions for each solution, and the accompanying files are finished files. 
+
 The job involves setting up functionality for equity trader dashboards that allows them to track correlated stocks for their trading strategies 
 
 Task One: Interface with a stock price data feed 
