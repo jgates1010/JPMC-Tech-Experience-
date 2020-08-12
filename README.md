@@ -15,5 +15,5 @@ Task One: Interface with a stock price data feed
   
 Task Two: Use JPMorgan Frameworks and Tools 
 
-  In progress 
+  This job involves taking the data feed set up in task one, and using the data to set up a continously updating line chart of stock quotes.
 
